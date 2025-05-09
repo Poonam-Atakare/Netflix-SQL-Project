@@ -29,7 +29,7 @@
 ## Installation
 1. Clone the repository:
 ```bash
-  git clone https://github.com/yourusername/Netflix-Data-Analysis.git
+  git clone https://github.com/Poonam-Atakare/Netflix-SQL-Project.git
 ```
 
 2. Import the `netflix_data.sql` file into your preferred SQL environment (e.g., PostgreSQL, MySQL).
@@ -41,7 +41,7 @@
 - Modify the queries to further explore the dataset and derive additional insights.
 
 ## Problem Statements and Solutions
-
+- These are some problems and their solution
 ### Problem 1: Count the Number of Movies vs TV Shows
 ```sql
 SELECT 
